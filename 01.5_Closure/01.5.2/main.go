@@ -18,7 +18,7 @@ func main() {
 	fmt.Println(increment())
 
 }
-// Here i am declaring a global function with a return type another func whose returning and int type integer
+// Here i am declaring a global function with a return type another func whose returning an int type integer
 // this is another way of doing it.
 /*
 closure helps us limit the scope of variables used by multiple functions
