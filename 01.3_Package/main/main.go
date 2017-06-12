@@ -11,6 +11,6 @@ func main() {
 
 	fmt.Println(foxy.Idiom)
 	fmt.Println(operation.MyName)
-	fmt.Println(operation.Reverse("near"))
+	fmt.Println(operation.Reverse("elephant"))
 
 }
